@@ -55,7 +55,6 @@ public class TestingClass {
 
         @Override
         public int hashCode() {
-            // Your custom hash code implementation
             return value;
         }
     }
